@@ -4,7 +4,8 @@
     <title>Draughts Union Members</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        body {
+ <body>
+ {
             font-family: Arial;
             background: #f4f4f4;
             padding: 10px;
@@ -19,6 +20,7 @@
             border-radius: 10px;
             box-shadow: 0 2px 5px gray;
         }
+<body>
     </style>
 </head>
 <body>
